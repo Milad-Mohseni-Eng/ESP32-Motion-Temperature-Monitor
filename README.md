@@ -52,7 +52,7 @@ It continuously monitors *motion* and *ambient temperature, providing immediate 
 ![State Diagram](images/state_diagram.png)
 
 ## 🎥 Demo Video
-![Demo](demo.mp4)
+![Demo](Demo.mp4)
 
 ## 🧠 Skills Demonstrated
 - Embedded C/C++ programming
