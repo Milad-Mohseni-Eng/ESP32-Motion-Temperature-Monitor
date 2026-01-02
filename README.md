@@ -46,10 +46,10 @@ It continuously monitors *motion* and *ambient temperature, providing immediate 
   - OLED updates status in real time  
 
 ## 📐 Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 ## 🔄 State Diagram
-![State Diagram](images/state_diagram.png)
+![State Diagram](images/state_diagram.jpg)
 
 ## 🎥 Demo Video
 ![Demo](Demo.mp4)
